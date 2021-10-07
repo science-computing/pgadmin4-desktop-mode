@@ -1,0 +1,12 @@
+*.orig
+*.pyc
+*.pyd
+*.pyo
+*.rej
+*~
+.project
+.pydevproject
+dist/
+build/
+docs/_build/
+src/pgadmin4_desktop_mode.egg-info/
